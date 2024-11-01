@@ -5,4 +5,4 @@ Well, the goal is to build-up an arsenal of scripts, snippets, etc., and then sl
 
 On a serious note, this repo's primary focus is to save my (developer) time, reduce errors, make maintenance a bit smoother. I have seen a decent amount of bad stuff and I intend to have a toolkit that I can use to deal with and prevent "oh no" moments. 
 
-P.S. English isn’t my first language, so feel free to excuse any little grammar slip-ups!
+P.S. English isn’t my first language, so excuse any little grammar slip-ups!
